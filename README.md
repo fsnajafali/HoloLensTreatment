@@ -64,9 +64,9 @@ Open the Assets folder (`[Your Project Name]/Assets`) and delete the `Scenes` fo
 
 Go back to the project folder (`[Your Project Name]`) and rename `Assets` to `Assets_`.
 
-Open a shell from the project folder and run `git clone https://github.com/Silidos/ABB2020.git Assets` or use your preferred method of pulling the files from GitHub.
+Open a shell from the project folder and run `git clone https://github.com/fsnajafali/HoloLensTreatment.git` or use your preferred method of pulling the files from GitHub.
 
-Once that's done, drag everything from `Assets_` into `Assets` and then delete `Assets_`. `Assets` is the file path that Unity will read, so here we move the contents of our project from a temporary folder into the permenant one.
+Once that's done, drag everything from `Assets_` into `Assets` and then delete `Assets_`. `Assets` is the file path that Unity will read, so here we move the contents of our project from a temporary folder into the permanent one.
 
 
 ### Finalize Project Dependencies
